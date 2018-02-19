@@ -10,8 +10,8 @@
     <ScrollViewer VerticalScrollBarVisibility="Auto">
         <Grid x:Name="ButtonsGrid" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition />
-                <ColumnDefinition />
+                <ColumnDefinition/>
+                <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <Button></Button>
         </Grid>
