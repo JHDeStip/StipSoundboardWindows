@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.10
+VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StipSoundboard", "StipSoundboard\StipSoundboard.csproj", "{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StipSoundboard", "StipSoundboard\StipSoundboard.csproj", "{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,26 +15,29 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|ARM.ActiveCfg = Debug|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|ARM.Build.0 = Debug|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|ARM.Deploy.0 = Debug|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x64.ActiveCfg = Debug|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x64.Build.0 = Debug|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x64.Deploy.0 = Debug|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x86.ActiveCfg = Debug|x86
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x86.Build.0 = Debug|x86
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Debug|x86.Deploy.0 = Debug|x86
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|ARM.ActiveCfg = Release|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|ARM.Build.0 = Release|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|ARM.Deploy.0 = Release|ARM
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x64.ActiveCfg = Release|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x64.Build.0 = Release|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x64.Deploy.0 = Release|x64
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x86.ActiveCfg = Release|x86
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x86.Build.0 = Release|x86
-		{D5AF9BDF-F11C-4E75-93B8-284EA6C3DBA9}.Release|x86.Deploy.0 = Release|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|ARM.Build.0 = Debug|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x64.ActiveCfg = Debug|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x64.Build.0 = Debug|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x64.Deploy.0 = Debug|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x86.ActiveCfg = Debug|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x86.Build.0 = Debug|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Debug|x86.Deploy.0 = Debug|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|ARM.ActiveCfg = Release|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|ARM.Build.0 = Release|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|ARM.Deploy.0 = Release|ARM
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x64.ActiveCfg = Release|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x64.Build.0 = Release|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x64.Deploy.0 = Release|x64
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x86.ActiveCfg = Release|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x86.Build.0 = Release|x86
+		{D3DBBC87-A0A4-471F-A4FC-2ECF01E19287}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BE804C-E65C-4B73-A035-04720C5EA864}
 	EndGlobalSection
 EndGlobal
