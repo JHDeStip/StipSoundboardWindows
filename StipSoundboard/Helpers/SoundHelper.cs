@@ -32,7 +32,22 @@ namespace StipSoundboard.Helpers
                 new Sound("De miekes", "deMiekes"),
                 new Sound("Zwijgeeeeuh", "zwijgeeeeuh"),
                 new Sound("Annalisa leren", "annalisaLeren"),
-                new Sound("Vlieger", "vlieger")
+                new Sound("Vlieger", "vlieger"),
+                new Sound("Tis gedaan", "tisGedaan"),
+                new Sound("Geregeld", "geregeld"),
+                new Sound("Alle hoere moete zwijge", "alleHoereMoeteZwijge"),
+                new Sound("Jeroen pauw", "jeroenPauw"),
+                new Sound("Daar gaat ie weer", "daarGaatIeWeer"),
+                new Sound("Hatsikideej", "hatsikideej"),
+                new Sound("Grootgebracht met melk", "grootgebrachtMetMelk"),
+                new Sound("Belachelijk", "belachelijk"),
+                new Sound("Deux bouteilles de vino", "deuxBouteillesDeVino"),
+                new Sound("Goesting om te kappen", "goestingOmTeKappen"),
+                new Sound("Hoerenzoonnn", "hoerenzoonnn"),
+                new Sound("Ik haat sossen", "ikHaatSossen"),
+                new Sound("Kakken en zwijgen", "kakkenEnZwijgen"),
+                new Sound("Leuvense janetten", "leuvenseJanetten"),
+                new Sound("BMI van 30", "bmiVan30")
             };
         }
     }
