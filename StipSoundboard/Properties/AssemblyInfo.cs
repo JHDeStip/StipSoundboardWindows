@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Soundboard for JH De Stip")]
 [assembly: AssemblyCompany("JH De Stip")]
 [assembly: AssemblyProduct("Stip Soundboard")]
-[assembly: AssemblyCopyright("Copyright © JH De Stip 2017")]
+[assembly: AssemblyCopyright("Copyright © JH De Stip 2018")]
 
 #if DEBUG
 [assembly: AssemblyConfiguration("Debug")]
@@ -13,6 +13,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("Release")]
 #endif
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
 [assembly: ComVisible(false)]
