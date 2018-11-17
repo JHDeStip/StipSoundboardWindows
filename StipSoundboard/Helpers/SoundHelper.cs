@@ -47,7 +47,8 @@ namespace StipSoundboard.Helpers
                 new Sound("Ik haat sossen", "ikHaatSossen"),
                 new Sound("Kakken en zwijgen", "kakkenEnZwijgen"),
                 new Sound("Leuvense janetten", "leuvenseJanetten"),
-                new Sound("BMI van 30", "bmiVan30")
+                new Sound("BMI van 30", "bmiVan30"),
+                new Sound("Alle venten zijn homo", "alleVentenZijnHomo")
             };
         }
     }
